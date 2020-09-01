@@ -1,0 +1,68 @@
+
+.info {
+  font-size:22px;
+  font-family:sans-serif;
+}
+
+.fa-chevron-down {
+  position: absolute;
+ top: 95%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+
+}
+
+.listElement {
+  margin-right: 20px;
+  display: inline-block;
+}
+.listElement .aElement {
+  background-color: white;
+  color:black;
+  font-size: 20px;
+  font-family: 'Libre Baskerville', serif;
+  border-radius: 90px;
+  padding: 5px 15px;
+}
+
+.le1 .le2 {
+  display: block;
+}
+
+.infoMe {
+  color:white;
+  font-family: sans-serif;
+  font-size:14pt;
+}
+
+.section00 {
+  background-color: white;
+}
+
+.ReTect {
+  font-family: 'Libre Baskerville', serif;
+}
+
+.title {
+  padding-top:50px
+}
+
+.paddedBox {
+  width:50vw;
+  margin:0 auto;
+}
+
+.paddedImage {
+  width:50vw;
+  margin: 0 auto
+}
+
+.name {
+  font-family: 'Permanent Marker', cursive;
+  /* font-size:1em; */
+
+
+}
+.paddingBottom{
+  padding-bottom: 20px;
+}
